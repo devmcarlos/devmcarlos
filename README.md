@@ -21,8 +21,6 @@
 <br>
 <p> "Tecnologia é mais do que minha paixão, é a assinatura de tudo que eu crio."
 
-![Snake animation](https://github.com/devmcarlos/devmcarlos/blab/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=devmcarlos&repo=devmcarlos&theme=react)](https://github.com/devmcarlos/devmcarlos)
 
 <!--
 **devmcarlos/devmcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
