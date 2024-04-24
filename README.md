@@ -18,6 +18,8 @@
     <img aling="center" alt="html5"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+<br>
+<p> "Tecnologia é mais do que minha paixão, é a assinatura de tudo que eu crio."
 
 
 <!--
